@@ -13,3 +13,5 @@ python3.10.6
 網址輸入你的課程的點名頁面 https://irs.zuvio.com.tw/student5/irs/rollcall/XXXXXX
 
 點名完畢會跳出通知
+
+下載app.exe即可直接點擊執行
